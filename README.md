@@ -9,3 +9,7 @@ Georings is a multiplayer 3D RPG game built on Unity, leveraging NFTs on Solana 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+
+## Screenshots and Gameplay POC
+
+<video src='/screenshots/Gameplay.mkv' width=180/>
