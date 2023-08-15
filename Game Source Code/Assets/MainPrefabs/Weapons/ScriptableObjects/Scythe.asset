@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4bb969ae753ba74ab36661c3cd2d412, type: 3}
+  m_Name: Scythe
+  m_EditorClassIdentifier: 
+  weaponAnimOverride: {fileID: 22100000, guid: 2c3a8b029963fc44dae15bf932fcf259, type: 2}
+  weaponPrefab: {fileID: 1499800018511601754, guid: e54afe7b7fc098344ae0861ef8499834,
+    type: 3}
+  weaponWeight: 0
+  weaponDamage: 0
+  weaponType: 5
+  allowed: 1

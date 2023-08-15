@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4bb969ae753ba74ab36661c3cd2d412, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  weaponAnimOverride: {fileID: 22100000, guid: 17f89267eda130f429eb2d6576abce9b, type: 2}
+  weaponPrefab: {fileID: 3832382114591452851, guid: 516dc382b1268844996297c435a89186,
+    type: 3}
+  weaponWeight: 0
+  weaponDamage: 0
+  weaponType: 2
+  allowed: 1

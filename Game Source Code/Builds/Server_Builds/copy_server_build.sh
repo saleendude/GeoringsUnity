@@ -1,0 +1,1 @@
+rsync -aP Linux/* ***@***.***.***.**:/home/*****/game
